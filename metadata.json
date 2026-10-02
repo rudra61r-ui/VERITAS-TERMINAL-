@@ -1,0 +1,7 @@
+{
+  "name": "Veritas Forensic Intelligence Terminal",
+  "description": "High-conviction cross-document contradiction and financial leakage detection engine for investors, traders, CFOs, and researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
